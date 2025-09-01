@@ -22,6 +22,12 @@ Step by step, I’ll integrate this into the **instruction set** and test progra
 
 ---
 
+## 🖥️ My Simulator
+I use the **official Nand2Tetris Web IDE** to design and test my chips:  
+👉 [Open Simulator](https://nand2tetris.github.io/web-ide/chip/)
+
+---
+
 ## ✨ Why This Matters
 This project is special because it’s not about using prebuilt libraries or shortcuts — it’s about **truly understanding how computers work at the lowest level.**  
 
